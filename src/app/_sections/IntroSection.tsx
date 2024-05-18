@@ -1,4 +1,3 @@
-import View from "@/components/layouts";
 import { QuickLink } from "@/components/QuickLink";
 import { Heading } from "@/components/typography/Heading";
 import { Paragraph } from "@/components/typography/Paragraph";
