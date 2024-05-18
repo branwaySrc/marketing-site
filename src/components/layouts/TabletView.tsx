@@ -9,4 +9,8 @@ const TabletView = forwardRef<HTMLDivElement, ViewerProps>(({ children, classNam
 	</div>
 ));
 
+
+TabletView.displayName ="TabletView"
+
+
 export default TabletView;

@@ -9,4 +9,6 @@ const MobileView = forwardRef<HTMLDivElement, ViewerProps>(({ children, classNam
 	</div>
 ));
 
+MobileView.displayName = "MobileView";
+
 export default MobileView;

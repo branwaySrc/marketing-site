@@ -9,4 +9,6 @@ const DeskTopView = forwardRef<HTMLDivElement, ViewerProps>(({ children, classNa
 	</div>
 ));
 
+DeskTopView.displayName ="DeskTopView"
+
 export default DeskTopView;
