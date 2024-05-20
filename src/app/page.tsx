@@ -6,7 +6,7 @@ import CompanySection from "@/app/_sections/CompanySection";
 
 export default function Home() {
 	return (
-		<main className="min-h-screen bg-[#F3F6F6]">
+		<main className="min-h-screen bg-[#F3F6F6] ">
 			<HeroSection />
 			<IntroSection />
 			<ServiceSection />
